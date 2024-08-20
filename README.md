@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Delgado Torres</h1>
-<h3 align="center">A passionate frontend developer from Colombia working on the US!</h3>
+<h3 align="center">A Software & Web Developer!</h3>
 
 <p align="left"> <a href="https://twitter.com/diegoruny_" target="blank"><img src="https://img.shields.io/twitter/follow/diegoruny_?logo=twitter&style=for-the-badge" alt="diegoruny_" /></a> </p>
 
