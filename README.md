@@ -1,25 +1,46 @@
 <h1 align="center">Hi 👋, I'm Diego Delgado Torres</h1>
-<h3 align="center">A Software & Web Developer!</h3>
+<h3 align="center">A Passionate Software & Web Developer!</h3>
 
-<p align="left"> <a href="https://twitter.com/diegoruny_" target="blank"><img src="https://img.shields.io/twitter/follow/diegoruny_?logo=twitter&style=for-the-badge" alt="diegoruny_" /></a> </p>
-
-- 🌱 I’m currently learning **Django with Python, SQLite, AWS-S3**
-
-- 📫 How to reach me **diegoruny@gmail.com**
-
-- ⚡ Other interests! **I like F1 & Videogames!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/diegoruny_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diegoruny_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/diegotorreswebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegotorreswebdev" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://diegodelgado.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://github.com/diegoruny" target="_blank"><img src="https://img.shields.io/badge/GitHub-Explore-brightgreen?style=for-the-badge" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/diegotorreswebdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoruny&show_icons=true&locale=en&layout=compact" alt="diegoruny" /></p>
+### About Me
+Motivated and detail-oriented Software & Web Developer with a strong foundation in Python, JavaScript, and modern web frameworks. Adaptable to new challenges and always eager to learn, enjoy creating responsive and user-centric web applications. 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoruny&show_icons=true&locale=en" alt="diegoruny" /></p> -->
+- 🌱 I’m currently studing & improving my skills in **Django with Python, SQLite, AWS-S3**
+- 🎯 Always exploring new technologies and learning about web development.
+- 💼 Check out my portfolio: [diegodelgado.dev](https://diegodelgado.dev)
+- 📫 How to reach me: **diegoruny@gmail.com**
+- ⚡ Fun fact: **I’m an F1 enthusiast and a passionate gamer!**
+
+---
+
+### 🛠️ Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,aws,sqlite,js,html,css,tailwind,react,ts,nextjs,git" alt="My Skills" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoruny&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/diegotorreswebdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:diegoruny@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
